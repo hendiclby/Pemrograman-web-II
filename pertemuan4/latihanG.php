@@ -8,7 +8,7 @@ $negara_info = [
     ["Brunei", "Bandar Seri Begawan", "+673"],
     ["Thailand", "Bangkok", "+66"],
     ["Laos", "Vientiane", "+856"],
-    ["Filipina", "Manila", "+63"],
+    ["Philippines", "Manila", "+63"],
     ["Myanmar", "Naypyidaw", "+95"]
 ];
 
