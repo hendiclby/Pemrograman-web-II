@@ -14,6 +14,5 @@ $hasil = array_push($hari, "kamis", "jum'at");
 print_r($hari);
 echo "<hr>";
 
-echo
 
  ?>
